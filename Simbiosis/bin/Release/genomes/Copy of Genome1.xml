@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<genome>
+	<gene>
+		<type>Core</type>
+		<gene>
+			<type>Muscle</type>
+			<socket>skt0</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+			<gene>
+				<type>Muscle</type>
+				<socket>skt0</socket>
+				<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+				<gene>
+					<type>ImageSensor</type>
+					<socket>skt0</socket>
+					<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+				</gene>
+			</gene>
+		</gene>
+		<gene>
+			<type>Muscle</type>
+			<socket>skt1</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+			<gene>
+				<type>Fin</type>
+				<socket>skt0</socket>
+				<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+			</gene>
+		</gene>
+		<gene>
+			<type>Muscle</type>
+			<socket>skt5</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+			<gene>
+				<type>Fin</type>
+				<socket>skt0</socket>
+				<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+			</gene>
+		</gene>
+	</gene>
+</genome>

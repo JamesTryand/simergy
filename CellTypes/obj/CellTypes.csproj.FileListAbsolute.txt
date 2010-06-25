@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\CellTypes\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\CellTypes\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\CellTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\CellTypes\obj\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\CellTypes\obj\Debug\CellTypes.pdb

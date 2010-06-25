@@ -1,0 +1,13 @@
+bin\Debug\Sensors.dll
+bin\Debug\Sensors.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sensors.dll
+obj\Debug\Sensors.pdb
+bin\Release\Sensors.dll
+bin\Release\Sensors.pdb
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Sensors.dll
+obj\Release\Sensors.pdb

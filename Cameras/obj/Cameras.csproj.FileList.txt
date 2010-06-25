@@ -1,0 +1,13 @@
+bin\Release\Cameras.dll
+bin\Release\Cameras.pdb
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Cameras.dll
+obj\Release\Cameras.pdb
+bin\Debug\Cameras.dll
+bin\Debug\Cameras.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cameras.dll
+obj\Debug\Cameras.pdb

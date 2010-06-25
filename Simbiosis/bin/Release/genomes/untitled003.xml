@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<genome>
+    <gene>
+        <type>CellTypes.Core</type>
+        <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+        <gene>
+            <type>Actuators.Muscle</type>
+            <socket>skt0</socket>
+            <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+            <channel>
+                <chemical>1</chemical>
+            </channel>
+            <channel>
+                <chemical>0</chemical>
+            </channel>
+            <channel>
+                <chemical>0</chemical>
+            </channel>
+            <gene>
+                <type>Actuators.FemaleRepro</type>
+                <socket>skt0</socket>
+                <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+                <channel>
+                    <chemical>1</chemical>
+                </channel>
+            </gene>
+        </gene>
+    </gene>
+</genome>

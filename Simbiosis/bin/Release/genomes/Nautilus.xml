@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<genome>
+	<gene>
+		<type>Cambrian.NautilusShell</type>
+    <gene>
+      <type>Cambrian.NautilusHead</type>
+      <socket>skt0</socket>
+      <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Cambrian.NautilusFeeler</type>
+        <socket>skt0</socket>
+        <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      </gene>
+    </gene>
+	</gene>
+</genome>

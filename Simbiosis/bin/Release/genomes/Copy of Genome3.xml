@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<genome>
+  <gene>
+    <type>Core</type>
+    <gene>
+      <type>Muscle2</type>
+      <socket>skt0</socket>
+      <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Muscle2</type>
+        <socket>skt0</socket>
+        <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        <gene>
+          <type>SpinySucker</type>
+          <socket>skt0</socket>
+          <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        </gene>
+      </gene>
+    </gene>
+    <gene>
+      <type>Bend1</type>
+      <socket>skt1</socket>
+      <!-- +90 degrees round Y = clockwise yaw-->
+      <orientation> 0.0, 0.0,-1.0, 0.0,   0.0, 1.0, 0.0, 0.0,   1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Muscle</type>
+        <socket>skt0</socket>
+        <!-- +90 degrees round Y = clockwise yaw-->
+        <orientation> 0.0, 0.0,-1.0, 0.0,   0.0, 1.0, 0.0, 0.0,   1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        <gene>
+          <type>Fin</type>
+          <socket>skt0</socket>
+          <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        </gene>
+      </gene>
+    </gene>
+    <gene>
+      <type>Bend1</type>
+      <socket>skt5</socket>
+      <!-- -90 degrees round Y = anticlockwise yaw-->
+      <orientation> 0.0, 0.0, 1.0, 0.0,   0.0, 1.0, 0.0, 0.0,  -1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Muscle</type>
+        <socket>skt0</socket>
+        <!-- -90 degrees round Y = anticlockwise yaw-->
+        <orientation> 0.0, 0.0, 1.0, 0.0,   0.0, 1.0, 0.0, 0.0,  -1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        <gene>
+          <type>Fin</type>
+          <socket>skt0</socket>
+          <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        </gene>
+      </gene>
+    </gene>
+
+    <gene>
+      <type>Bend1</type>
+      <socket>skt2</socket>
+      <!-- +90 degrees round Y = clockwise yaw-->
+      <orientation> 0.0, 0.0,-1.0, 0.0,   0.0, 1.0, 0.0, 0.0,   1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Muscle</type>
+        <socket>skt0</socket>
+        <!-- +90 degrees round Y = clockwise yaw-->
+        <orientation> 0.0, 0.0,-1.0, 0.0,   0.0, 1.0, 0.0, 0.0,   1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        <gene>
+          <type>Fin</type>
+          <socket>skt0</socket>
+          <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        </gene>
+      </gene>
+    </gene>
+    <gene>
+      <type>Bend1</type>
+      <socket>skt4</socket>
+      <!-- -90 degrees round Y = anticlockwise yaw-->
+      <orientation> 0.0, 0.0, 1.0, 0.0,   0.0, 1.0, 0.0, 0.0,  -1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+      <gene>
+        <type>Muscle</type>
+        <socket>skt0</socket>
+        <!-- -90 degrees round Y = anticlockwise yaw-->
+        <orientation> 0.0, 0.0, 1.0, 0.0,   0.0, 1.0, 0.0, 0.0,  -1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        <gene>
+          <type>Fin</type>
+          <socket>skt0</socket>
+          <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+        </gene>
+      </gene>
+    </gene>
+
+
+  </gene>
+</genome>

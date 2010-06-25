@@ -1,0 +1,13 @@
+bin\Release\Simbiosis.exe
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Simbiosis.Common.directx.ico
+obj\Release\Simbiosis.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Simbiosis.Common.directx.ico
+bin\Debug\Simbiosis.exe
+bin\Debug\Simbiosis.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\Simbiosis.exe
+obj\Debug\Simbiosis.pdb

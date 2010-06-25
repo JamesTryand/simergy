@@ -1,0 +1,13 @@
+bin\Debug\Default.dll
+bin\Debug\Default.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Default.dll
+obj\Debug\Default.pdb
+bin\Release\Default.dll
+bin\Release\Default.pdb
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Default.dll
+obj\Release\Default.pdb

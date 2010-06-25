@@ -1,0 +1,13 @@
+bin\Debug\Structural.dll
+bin\Debug\Structural.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Structural.dll
+obj\Debug\Structural.pdb
+bin\Release\Structural.dll
+bin\Release\Structural.pdb
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Structural.dll
+obj\Release\Structural.pdb

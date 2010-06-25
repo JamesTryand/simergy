@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\bin\Debug\Actuators.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\bin\Debug\Actuators.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\obj\Debug\Actuators.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Actuators\obj\Debug\Actuators.pdb

@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\bin\Debug\Cameras.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\bin\Debug\Cameras.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\obj\Debug\Cameras.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Cameras\obj\Debug\Cameras.pdb

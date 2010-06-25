@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<genome>
+	<gene>
+		<type>Cameras.Dolly</type>
+		<gene>
+			<type>Cameras.DollyCamera</type>
+			<socket>skt0</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+		</gene>
+	</gene>
+</genome>

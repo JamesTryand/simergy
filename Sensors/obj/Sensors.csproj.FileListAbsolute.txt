@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\bin\Debug\Sensors.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\bin\Debug\Sensors.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\obj\Debug\Sensors.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Sensors\obj\Debug\Sensors.pdb

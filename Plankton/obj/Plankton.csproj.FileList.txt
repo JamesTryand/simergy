@@ -1,0 +1,11 @@
+bin\Release\Plankton.dll
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Plankton.dll
+bin\Debug\Plankton.dll
+bin\Debug\Plankton.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Plankton.dll
+obj\Debug\Plankton.pdb

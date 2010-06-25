@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<genome>
+	<gene>
+		<type>Cameras:Submarine</type>
+
+
+    <gene>
+			<type>Cameras.SubDome</type> <!--dome controls bouyancy-->
+			<socket>skt0</socket>
+      <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+    
+		<gene>
+			<type>Cameras.SubFan</type>		<!-- right side -->
+			<socket>skt1</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+		<gene>
+			<type>Cameras.SubFan</type>	<!-- left side -->
+			<socket>skt2</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+    <gene>
+      <type>Cameras.SubFan</type> <!-- top -->
+      <socket>skt3</socket>
+      <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+		<gene>
+			<type>Cameras.SubFan</type>	<!-- bot -->
+			<socket>skt4</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+    <gene>
+      <type>Cameras.SubFan</type> <!-- right side downward-facing -->
+      <socket>skt5</socket>
+      <orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+		<gene>
+			<type>Cameras.SubFan</type>	<!-- left side downward-facing -->
+			<socket>skt6</socket>
+			<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+    </gene>
+	</gene>
+</genome>

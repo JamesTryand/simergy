@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- no rotation -->
+<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+
+<!-- +90 degrees round Y = clockwise yaw-->
+<orientation> 0.0, 0.0,-1.0, 0.0,   0.0, 1.0, 0.0, 0.0,   1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+
+<!-- -90 degrees round Y = anticlockwise yaw-->
+<orientation> 0.0, 0.0, 1.0, 0.0,   0.0, 1.0, 0.0, 0.0,  -1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+
+<!-- 180 degrees round Y = reverse yaw-->
+<orientation> -1.0, 0.0, 0.0, 0.0,   0.0, 1.0, 0.0, 0.0,   0.0, 0.0,-1.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+
+
+
+<!-- +90 degrees round X-->
+<orientation> 1.0, 0.0, 0.0, 0.0,   0.0, 0.0, 1.0, 0.0,   0.0,-1.0, 0.0, 0.0,   0.0, 0.0, 0.0, 1.0</orientation>
+

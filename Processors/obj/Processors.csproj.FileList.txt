@@ -1,0 +1,13 @@
+bin\Debug\Processors.dll
+bin\Debug\Processors.pdb
+bin\Debug\CellTypes.dll
+bin\Debug\CellTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Processors.dll
+obj\Debug\Processors.pdb
+bin\Release\Processors.dll
+bin\Release\Processors.pdb
+bin\Release\CellTypes.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Processors.dll
+obj\Release\Processors.pdb

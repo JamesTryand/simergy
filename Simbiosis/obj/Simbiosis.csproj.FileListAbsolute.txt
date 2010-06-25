@@ -1,0 +1,8 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\obj\Debug\Simbiosis.exe
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\obj\Debug\Simbiosis.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\bin\Debug\Simbiosis.exe
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\bin\Debug\Simbiosis.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Simbiosis\obj\Debug\Simbiosis.Common.directx.ico

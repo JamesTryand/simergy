@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<genome>
+    <gene>
+        <type>CellTypes:Core.default</type>
+        <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+        <channel>
+            <chemical>1</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>2</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>3</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>4</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>5</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>6</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>7</chemical>
+            <constant>0</constant>
+        </channel>
+        <channel>
+            <chemical>8</chemical>
+            <constant>0</constant>
+        </channel>
+        <gene>
+            <type>Processors:Integrator.default</type>
+            <socket>skt0</socket>
+            <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+            <channel>
+                <chemical>2</chemical>
+                <constant>0</constant>
+            </channel>
+            <channel>
+                <chemical>1</chemical>
+                <constant>0</constant>
+            </channel>
+            <channel>
+                <chemical>0</chemical>
+                <constant>0.5022016</constant>
+            </channel>
+        </gene>
+        <gene>
+            <type>Processors:Oscillator.pulse</type>
+            <socket>skt1</socket>
+            <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+            <channel>
+                <chemical>1</chemical>
+                <constant>0</constant>
+            </channel>
+            <channel>
+                <chemical>0</chemical>
+                <constant>0.7668016</constant>
+            </channel>
+        </gene>
+    </gene>
+</genome>

@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\obj\Debug\Processors.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\bin\Debug\Processors.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\bin\Debug\Processors.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Processors\obj\Debug\Processors.pdb

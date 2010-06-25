@@ -1,0 +1,7 @@
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\bin\Debug\Structural.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\bin\Debug\Structural.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\bin\Debug\CellTypes.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\bin\Debug\CellTypes.pdb
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\obj\Debug\Structural.dll
+C:\Users\Steve\Documents\Visual Studio 2005\Projects\Simbiosis\Structural\obj\Debug\Structural.pdb

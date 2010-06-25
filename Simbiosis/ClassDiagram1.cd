@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="Simbiosis.Camera" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Camera.cs</FileName>
+      <HashCode>QAAgBgBQAAoCAAAsAAAoIgAARAIAAAgEBBEACARgAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.CameraShip" Collapsed="true">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CameraShip.cs</FileName>
+      <HashCode>ABCABAAAggAABAQAAAAAMAAAAQEUAAQFBCAEAwQgQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Cell" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Cell.cs</FileName>
+      <HashCode>QUVkgHeFATAMvXJiAIqAA8Iiq9DPloUCypEkiYRyRhA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Simbiosis.Channel" Collapsed="true">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Cell.cs</FileName>
+      <HashCode>AAAAAAAAAAAAQAIAAAAAAAACAAAAAAACAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.CellLoader" Collapsed="true">
+    <Position X="18.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CellLoader.cs</FileName>
+      <HashCode>AAAAgAEAAIAgggAAAAAAAkAEEAAAhwQhgGAAAAgAAiA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Chemistry" Collapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Chemical.cs</FileName>
+      <HashCode>AAIAAABAAAAAAAAAAAAAAAQgAgAACAAACAAAABAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Cytoplasm" Collapsed="true">
+    <Position X="20.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Cytoplasm.cs</FileName>
+      <HashCode>AADACkAAAUAAAAAAAAAAAAAAAAAAAAAIQBAEAEBgjAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Engine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Engine.cs</FileName>
+      <HashCode>AAAAAEAAIAEAggAEAIAgAAEgAIBEAACAAIAIDAQAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Simbiosis.Fx" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Fx.cs</FileName>
+      <HashCode>gQEhnEEFEIBAgggUgoIQAgIQEGAoA0AEAYBAJAAAggA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Gene" Collapsed="true">
+    <Position X="36.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Genome.cs</FileName>
+      <HashCode>AABCAAAAAQBAAAAAAAAAEAAAAAAAARgAAYAAAgAAEEI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Genome" Collapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Genome.cs</FileName>
+      <HashCode>AAAAAAAAAAAAACAAAAAgAAQgAAAEAAAAAAAAAAMAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.JointFrame" Collapsed="true">
+    <Position X="22.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>JointFrame.cs</FileName>
+      <HashCode>AABAhAAABAABYAAAAAAAAEQAQABNAIAABYEIAAIBACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Lab" Collapsed="true">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Lab.cs</FileName>
+      <HashCode>gBYAAAAAAAAAASLAAABAIAAARIMEAAAABAAAAAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.LabPanel" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LabPanel.cs</FileName>
+      <HashCode>iZAAEaIABhAIgAAIBECAEAAAwUcEggQEkIEUAABgACE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.LabPanel2" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>LabPanel.cs</FileName>
+      <HashCode>iAIAcIIAAxAAgAAABACAAAAAgAKEAARAAAgAiARAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Map" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Map.cs</FileName>
+      <HashCode>AkIBAAAUDAAACTBEIADwhCAAAAGgAIQBQBCCAgR0EhY=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Marker" Collapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Marker.cs</FileName>
+      <HashCode>AAABAgAAQAAAAAAEAAIAACCCAAEBAAAAABAAAARgAKA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.MotionController" Collapsed="true">
+    <Position X="24" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MotionController.cs</FileName>
+      <HashCode>AAEAAAAAEAQAAAAAAAAAAAQAAAAAAAAABAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Organism" Collapsed="true">
+    <Position X="7.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Organism.cs</FileName>
+      <HashCode>iBaFBBDIgWhAiZAEygoAREYCKlDMQMgiQBIkAIHFZhg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Simbiosis.Panel" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Panel.cs</FileName>
+      <HashCode>ABAAAAAAAAAAEAAAAAAAAAAAAQEUIAQAABAQAAAgAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Renderable" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Renderable.cs</FileName>
+      <HashCode>AAQgAACAgSAAAIABAAAAAAAAAQAAAEEAABAgAAAAAEA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Simbiosis.Scene" Collapsed="true">
+    <Position X="34.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Scene.cs</FileName>
+      <HashCode>AAABAAAAAQAAAAAEBAAgAAAgAAACCAAAQBggQAQiAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SceneryInfo" Collapsed="true">
+    <Position X="36.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Scenery.cs</FileName>
+      <HashCode>AAAQAAAAgBEIAAYAQAAAAAkCAAAIIBAAAQCAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Scenery" Collapsed="true">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Scenery.cs</FileName>
+      <HashCode>AAAAAAAAgSAAAAAAAgAAkAACgAAAAkAAQBAACQVAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SkyBox" Collapsed="true">
+    <Position X="38.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SkyBox.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAQEQAAAAAAAAAAAAgBAABAAAAQgAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SubCam" Collapsed="true">
+    <Position X="7.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SubCam.cs</FileName>
+      <HashCode>AAQAAAAAAAAAgACAAAAAAAAAAAEEAAAAAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SubPanel" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SubPanel.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAEAAAgBAAEAAAAAAAAAAAAAQAAEAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SubPanel2" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SubPanel.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SurveyCam" Collapsed="true">
+    <Position X="10" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SurveyCam.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SurveyPanel" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SurveyPanel.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Terrain" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Terrain.cs</FileName>
+      <HashCode>IgChABAAgyAACDQEAAAQAAAAAMBhAkAwABIEAAVgDAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Simbiosis.UserInput" Collapsed="true">
+    <Position X="33" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UserInput.cs</FileName>
+      <HashCode>CBQCIAQIAAEAAAAsQABAAAAJAABwAAAAAAAAGARAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.ThreeDee" Collapsed="true">
+    <Position X="31.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAEACIAgAAAAAAAAAAAQAAAAAEAACBQAAAAAIAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Rnd" Collapsed="true">
+    <Position X="33" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.RenderBatch" Collapsed="true">
+    <Position X="38.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAIAAAAAAAEgBAAAAAAAAAQAAAAAAAIAAAAAAAFAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Water" Collapsed="true">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Water.cs</FileName>
+      <HashCode>AAABAAARgEAAAAAEAAAABABAAAAgAEAABRAgIAVgAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Widget" Collapsed="true">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>SAAGBBBCDABgAgQAAADAMAAIAQEEAgwAAEAABQABQAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Switch" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAABAAAASAAAgAAIAAAAAAAAAAAABQEAAAiAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.MultiSwitch" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAABAAQIQAAAgACAAAAACAAAAAAAAQEAQQgAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Wheel" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAASBAAQAQAEAgAAAAAAAAAAEQAAAAQEAAAgAEAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Knob" Collapsed="true">
+    <Position X="28.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAAAAAAAQAAAgACAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Button" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAQCBAAAAQAAAgAAAAAAAAAAAQAAAgQAAAAiAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.CycleButton" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAABAAAAQAAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.SafetyButton" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AASCBAAAAQAAAgAAAAAAAAAAAQAAAAQAAAAiAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Lamp" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Meter" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAAAAAQAAAAAgACAAAAAAAAAAAAAAAEAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Selector" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>IAMAAgAAEwBABAAgAAAAAAAAAAAAAAAAQAkAAABBQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Carousel" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.magicEye" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAECAAAIACAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.Container" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>AAACBAAAAAAAEgAAAAAAAAAAAQEEIAQAAAAAAAAgAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simbiosis.EditBox" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Widget.cs</FileName>
+      <HashCode>ACIARQAAAwAAAgAAIEAAAAgAAAAAAAQIAAAACAAgAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Samples.DirectX.UtilityToolkit.Utility" Collapsed="true">
+    <Position X="34.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Common\dxmutmisc.cs</FileName>
+      <HashCode>AAAAAAACCUAAAAAAAAAAAAQIAAAAAAAIAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Simbiosis.Orientation" Collapsed="true">
+    <Position X="33" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAQCAAAAAAAAAAAAAAAABAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Simbiosis.Rotation" Collapsed="true">
+    <Position X="34.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAEAYCAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Simbiosis.Sphere" Collapsed="true">
+    <Position X="36.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>ABAIgAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAgADAA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Simbiosis.BinormalVertex" Collapsed="true">
+    <Position X="31.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Utils.cs</FileName>
+      <HashCode>AAAAAAAAQAAABAAgAAABAAAAACgICAAiAAABAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+</ClassDiagram>

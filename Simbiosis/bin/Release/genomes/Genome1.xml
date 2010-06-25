@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<genome>
+    <gene>
+        <type>Default.Core</type>
+        <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+        <gene>
+            <type>Default.Muscle</type>
+            <socket>skt4</socket>
+            <orientation>-1,0,8.742791E-08,0,  0,1,0,0,  -8.742791E-08,0,-1,0,  0,0,0,1</orientation>
+            <gene>
+                <type>Default.Muscle</type>
+                <socket>skt0</socket>
+                <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+                <gene>
+                    <type>Default.Fin</type>
+                    <socket>skt0</socket>
+                    <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+                </gene>
+            </gene>
+        </gene>
+        <gene>
+            <type>Default.Muscle</type>
+            <socket>skt2</socket>
+            <orientation>-1,0,8.742791E-08,0,  0,1,0,0,  -8.742791E-08,0,-1,0,  0,0,0,1</orientation>
+            <gene>
+                <type>Default.Muscle</type>
+                <socket>skt0</socket>
+                <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+                <gene>
+                    <type>Default.Fin</type>
+                    <socket>skt0</socket>
+                    <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+                </gene>
+            </gene>
+        </gene>
+        <gene>
+            <type>Default.Fin</type>
+            <socket>skt3</socket>
+            <orientation>-1.192093E-07,0,-0.9999996,0,  0,1,0,0,  0.9999996,0,-1.192093E-07,0,  0,0,0,1</orientation>
+        </gene>
+        <gene>
+            <type>Default.Muscle2</type>
+            <socket>skt0</socket>
+            <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+            <gene>
+                <type>Default.SpinySucker</type>
+                <socket>skt0</socket>
+                <orientation>1,0,0,0,  0,1,0,0,  0,0,1,0,  0,0,0,1</orientation>
+            </gene>
+        </gene>
+    </gene>
+</genome>
